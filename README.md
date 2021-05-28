@@ -1,2 +1,2 @@
 # sh_furneaux
-Created with CodeSandbox
+Live view: https://stihilus.github.io/sh_furneaux/
